@@ -14,3 +14,23 @@ resource "null_resource" "test" {
 output "a1" {
   value = var.a1
 }
+
+output "a2" {
+  value = var.a1
+}
+
+output "a3" {
+  value = var.a1
+}
+
+output "b1" {
+  value = var.a1
+}
+
+output "b2" {
+  value = var.a1
+}
+
+output "b3" {
+  value = var.a1
+}
