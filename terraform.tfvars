@@ -1,2 +1,2 @@
-a1="root"
-var.a2="root"
+a1 = "root"
+var.a2 = "root"
